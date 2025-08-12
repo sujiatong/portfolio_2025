@@ -1,0 +1,16 @@
+---
+---
+
+/* 先載入 Minimal 主題原本的樣式 */
+@import "jekyll-theme-minimal";
+
+/* 然後用你的覆寫（出現在後面就能蓋過前面的規則） */
+body {
+  background-color: #f5f5dc !important; /* 米色 */
+  color: #333333;
+}
+
+h1, h2, h3, h4, h5, h6 { color: #444444; }
+
+a { color: #b85c00; }
+a:hover { color: #ff8000; }

@@ -11,11 +11,11 @@ title: "Resume"
 
    <summary>Contents</summary>
 
-1. [layout: default
-title: "Resume"](#layout-default-title-resume)
-1. [Education](#education)
-1. [Experience](#experience)
-1. [Skills](#skills)
+- [Resume](#resume)
+  - [Table of Contents](#table-of-contents)
+  - [Education](#education)
+  - [Experience](#experience)
+  - [🚀 Skills \& Tools](#-skills--tools)
 
 </details>
 [📄 Download PDF](resume.pdf)
@@ -35,8 +35,8 @@ title: "Resume"](#layout-default-title-resume)
 
 ---
 
-## Skills
-- **GIS:** ArcGIS Pro, QGIS  
-- **Programming:** Python, R, JavaScript  
-- **Databases:** PostgreSQL/PostGIS  
-- **Visualization:** Tableau, Power BI
+## 🚀 Skills & Tools
+
+Programming: Python (pandas, geopandas, matplotlib, scikit-learn), R (ggplot2, sf, tidymodels)
+Geospatial Analysis: GIS, QGIS, GeoJSON, Shapefiles
+Machine Learning: Regression, clustering, predictive modeling
