@@ -3,6 +3,27 @@ layout: default
 title: "Resume"
 ---
 
+<style>
+body {
+  background-color: #F3F3FA; 
+  color: #28004D;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #3A006F;
+}
+
+a {
+  color: #484891; /*link color*/
+}
+
+a:hover {
+  color: #7E3D76; 
+}
+
+</style>
+
+
 # Resume
 
 ## Table of Contents
@@ -11,11 +32,11 @@ title: "Resume"
 
    <summary>Contents</summary>
 
-- [Resume](#resume)
-  - [Table of Contents](#table-of-contents)
-  - [Education](#education)
-  - [Experience](#experience)
-  - [🚀 Skills \& Tools](#-skills--tools)
+1. [layout: default
+title: "Resume"](#layout-default-title-resume)
+1. [Education](#education)
+1. [Experience](#experience)
+1. [🚀 Skills & Tools](#-skills--tools)
 
 </details>
 [📄 Download PDF](resume.pdf)
@@ -24,7 +45,7 @@ title: "Resume"
 
 ## Education
 **University of Pennsylvania** — Master of Urban Spatial Analytics ’25  
-**University of XXX** — B.A. in XXXX
+**University of California, Santa Barbara** — B.A. in Geography ’23
 
 ---
 
