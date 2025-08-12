@@ -39,12 +39,15 @@ title: "Welcome"](#layout-default-title-welcome)
 1. [More Projects](#more-projects)
 
 </details>
+
+
+
 Hello! I'm Jiatong Su, a passionate researcher and data analyst specializing in transportation planning, geospatial analysis, and data visualization. With a strong background in R, Python, GIS, and machine learning.
 
 
 [📄 View Resume](/resume/resume.md) | [📬 Email Me](mailto:sujiatong23@gmail.com)
 
----
+
 
 ## Featured Projects
 
