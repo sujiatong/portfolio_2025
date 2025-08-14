@@ -85,6 +85,7 @@ Hello! I'm Jiatong Su, a passionate researcher and data analyst specializing in 
   <a href="https://github.com/sujiatong/Forecast_Metro_train_delays">💻 Code</a>
 </div>
 
+
 ---
 
 ## More Projects
@@ -92,8 +93,8 @@ Hello! I'm Jiatong Su, a passionate researcher and data analyst specializing in 
 - [Historical world boundaries](https://sujiatong.github.io/engagement_project/frontend/index.html)
 - [LLMs for Sentiment Analyzing and image reasoning](https://github.com/sujiatong/Final-project-MUSA-6950)
 - [Story Map of Metro between LA and DC](https://sujiatong.github.io/story_map_project/jiatong%20su/)
-- [Territorial changes of the Qing Dynasty](https://sujiatong.github.io/30DayMap-Jiatong/day12/day12.html)
-- [Collisions in Central West District In Hong Kong](https://sujiatong.github.io/30DayMap-Jiatong/day4_hext/day_4.html)
 - [Predicting Housing Prices in Philadelphia](https://sujiatong.github.io/ppa_upenn/ppa_final/PPA_midterm_Group%20Tong%20(2).html)
 - [Bike Share Prediction](https://sujiatong.github.io/ppa_upenn/hw5b/Su_Jiatong_HW5b.html)
 - [Geospatial Risk Prediction](https://sujiatong.github.io/ppa_upenn/HW3/Su_JiatongHW3.html)
+- [30-Day Map Challenge (10 maps completed)](https://sujiatong.github.io/30DayMap-Jiatong/)
+- [Hurricane Impact with Water Quality and Land Cover Change](images/Final_GEOG115C_S23_Poster_Mathlouthi-Nava-Su.pdf)
