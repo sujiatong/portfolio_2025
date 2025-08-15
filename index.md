@@ -54,7 +54,7 @@ Hello! I'm Jiatong Su, a passionate researcher and data analyst specializing in 
 <div class="project-card">
   <h3>US Utility Disconnection Dashboard</h3>
     <img src="images/utility.png" alt="Utility Disconnection Dashboard">
-  <p>Aggregated ZIP-level data to county level using HUD crosswalk, achieving MAPE < 2%. Built interactive Leaflet dashboard for multi-state analysis.</p>
+  <p>Visualizing utility disconnection estimates arcoss different counties, which provides insights into spatial patterns of utility burden and disconnections.</p>
   <p><strong>Tools:</strong> R, GeoPandas, Leaflet, JavaScript</p>
 
   <a href="https://sujiatong.github.io/MUSA-Praticum-Jiatong/dashboard/index.html">🌐 View </a> |
